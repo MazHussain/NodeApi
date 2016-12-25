@@ -1,2 +1,2 @@
 # NodeApi
-Learning NodeJs as a replacement for Web API layer
+Learning NodeJs as a replacement for Web API layer and committing to github
